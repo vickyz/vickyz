@@ -2,7 +2,7 @@
 
 <p align="center"> I'm 18 years old, I live in São Paulo/SP, currently studying Systems Analysis and Development and Data Analysis 🚀</p>
 
-- Certifications - Power Plataform, Systems Analysis and Development and Data Analysis (in progress).
+- Certifications - Power Plataform, Systems Analysis and Development, Data Analysis and Information security (in progress).
 - Hobbies - read, listen to music, play lol, travel... 
  
  ```kotlin
@@ -18,11 +18,11 @@ val developing = listOf("Kotlin", "Python", "R")
 ### **Statics GitHub**
   
  <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vickyz&show_icons=true&theme=dracula&line_height=27" alt="**Vicky** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vickyz&show_icons=true&theme=radical&show_height=27" alt="**Vicky** github stats"/>
 </a>
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyz&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyz&theme=radical&hide_langs_below=1" />
 </a>
 
 #### Contact

@@ -1,4 +1,7 @@
-#### <h1 align=”center”>< Hi there 👋, Im Victoria Caroline /></h1>
+# <h1 align="center"> < Hi there 👋, Im Victoria Caroline /> </h1>
+
+<p align="center"> I'm 18 years old, I live in São Paulo/SP, studying Systems Analysis and Development and Data Analysis 🚀</p>
+
  
  ```kotlin
 object Victoria Caroline {
@@ -9,14 +12,6 @@ val languages = listOf("Java", "C#", "JavaScript")
 val developing = listOf("Kotlin", "Python", "R")
 }
 ```
-#### Socials
-
-<a href="https://www.instagram.com/vyckki/">
-<img align="center" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/vict%C3%B3ria-caroline-737095204/">
-<img align="center" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin"
-</a> 
  
 ### **Statics GitHub**
   
@@ -28,5 +23,6 @@ val developing = listOf("Kotlin", "Python", "R")
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyz&theme=dracula&hide_langs_below=1" />
 </a>
 
-[Instagram]: https://www.instagram.com/vyckki/
-[Linkedin]: https://www.linkedin.com/in/vict%C3%B3ria-caroline-737095204/
+#### Contact
+
+<a href="mailto:victoriainjob?subject=Olá%20Vicky"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" /></a>

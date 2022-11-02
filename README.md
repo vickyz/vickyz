@@ -1,7 +1,9 @@
 # <h1 align="center"> < Hi there 👋, Im Victoria Caroline /> </h1>
 
-<p align="center"> I'm 18 years old, I live in São Paulo/SP, studying Systems Analysis and Development and Data Analysis 🚀</p>
+<p align="center"> I'm 18 years old, I live in São Paulo/SP, currently studying Systems Analysis and Development and Data Analysis 🚀</p>
 
+- Certifications - Power Plataform, Systems Analysis and Development and Data Analysis (in progress).
+- Hobbies - read, listen to music, play lol, travel... 
  
  ```kotlin
 object Victoria Caroline {

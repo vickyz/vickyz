@@ -8,7 +8,7 @@
  ```kotlin
 object Victoria Caroline {
 val name = "Victoria VK"
-val acknowledgements = "Infra TI // Back-end"
+val acknowledgements = "Infrastructure TI and Back-end"
 
 val languages = listOf("Java", "C#", "JavaScript")
 val developing = listOf("Kotlin", "Python", "R")

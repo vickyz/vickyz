@@ -1,18 +1,10 @@
-### Hi there 👋
+## <h1 align=”center”>< Hi there 👋, I'm Victoria Silva /></h1>
+ 
+```kotlin
+object Victoria Caroline {
+val name = "Victoria VK"
+val acknowledgements = "Infra TI // Back-end"
 
-![](https://komarev.com/ghpvc/?username=vickyz&color=006bed)
-
-<!--
-**vickyz/vickyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+val languages = listOf("Java", "C#", "JavaScript") 
+val developing = listOf("Kotlin", "Python", "R")
+}

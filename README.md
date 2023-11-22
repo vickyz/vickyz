@@ -1,6 +1,6 @@
 # <h1 align="center"> < Hi there 👋, Im Victoria Caroline /> </h1>
 
-<p align="center"> I'm 18 years old, I live in São Paulo/SP, currently studying Systems Analysis and Development and Data Analysis 🚀</p>
+<p align="center"> I'm 19 years old, I live in São Paulo/SP. Graduated in Systems Analysis and Development (Technical) and currently studying Information Technology Management 🚀</p>
 
 - Certifications - Power Plataform, Systems Analysis and Development, Data Analysis and Information security (in progress).
 - Hobbies - read, listen to music, play lol, travel... 
